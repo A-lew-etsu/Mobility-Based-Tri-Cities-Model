@@ -1,2 +1,2 @@
 # Mobility-Based-Tri-Cities-Model
-I have attached the files used to implement the research of how CoronaVirus spreads through the Tri-cities
+In this research we model the spread of the CoronaVirus through the Tri-Cities using mobility-based modelling.
